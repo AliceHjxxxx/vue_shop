@@ -1,11 +1,6 @@
 {
     "quotes": false,
     "semi": false,
-    "comma-dangle": false,
-    "no-empty": false,
-    "no-regex-spaces": false,
-    "indent": false,
-    "eol-last": false,
-    "func-call-spacing": false,
-    "spaced-comment": false
+    "comma-dangle": false
+
 }

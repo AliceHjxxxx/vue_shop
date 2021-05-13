@@ -19,7 +19,12 @@ module.exports = {
         'indent': 'off',
         'eol-last': 'off',
         'func-call-spacing': 'off',
-        'spaced-comment': 'off'
+        'spaced-comment': 'off',
+        'no-trailing-spaces': 'off',
+        'space-before-blocks': 'off',
+        'space-before-blocks': 'off',
+        'quote-props': 'off',
+        'no-useless-return': 'off'
 
     },
     parserOptions: {
