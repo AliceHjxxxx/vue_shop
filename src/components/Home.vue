@@ -94,7 +94,7 @@ export default {
         return this.$message.error(res.meta.msg)
       }
       this.menulist = res.data
-      console.log(res)
+      // console.log(res)
     },
     // 点击按钮切换菜单得折叠与展开
     toggleCollapse() {
