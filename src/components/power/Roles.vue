@@ -163,7 +163,7 @@
         ref="treeRef"
       ></el-tree>
       <span slot="footer" class="dialog-footer">
-        <el-button @click="setRighsDialogVisible = false">取 消</el-button>
+        <el-button @click="setRightsDialogVisible = false">取 消</el-button>
         <el-button type="primary" @click="allotRight()">确 定</el-button>
       </span>
     </el-dialog>
