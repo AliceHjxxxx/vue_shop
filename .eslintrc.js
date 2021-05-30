@@ -25,7 +25,8 @@ module.exports = {
         'space-before-blocks': 'off',
         'quote-props': 'off',
         'no-useless-return': 'off',
-        'no-unused-vars': 'off'
+        'no-unused-vars': 'off',
+        'prefer-const': 'off'
 
     },
     parserOptions: {
