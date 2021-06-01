@@ -32,3 +32,19 @@ body,
 .el-cascader-panel {
     height: 210px;
 }
+
+.el-steps {
+    margin: 15px 0;
+}
+
+.el-step__title {
+    font-size: 13px;
+}
+
+.ql-editor {
+    min-height: 300px!important;
+}
+
+.btnAdd {
+    margin-top: 15px;
+}
